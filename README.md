@@ -1,0 +1,2 @@
+# Sample.NetCoreApi
+Sample.NetCoreApiSample.NetCoreApiSample.NetCoreApiSample.NetCoreApiSample.NetCoreApi
